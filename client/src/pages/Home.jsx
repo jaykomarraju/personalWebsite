@@ -1,5 +1,4 @@
 import React from 'react'
-import styled from 'styled-components'
 import AboutBody from '../components/AboutBody'
 import HomeBody from '../components/HomeBody'
 import Navbar from '../components/Navbar'

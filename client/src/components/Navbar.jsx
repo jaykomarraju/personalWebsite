@@ -23,10 +23,6 @@ const Left = styled.div`
   display: flex;
 `;
 
-const Language = styled.div`
-  font-size: 14px;
-  cursor: pointer;
-`;
 
 const Center = styled.div`
   flex: 1;
@@ -40,10 +36,6 @@ const LogoText = styled.h1`
   font-size: 27px;
 `;
 
-const Logo = styled.h1`
-  font-weight: 400;
-  font-size: 20px;
-`;
 
 const Right = styled.div`
   flex: 1;
