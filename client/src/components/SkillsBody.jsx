@@ -67,7 +67,7 @@ const SkillsBody = () => {
             </Skill>
             <Skill>
                 <Name>
-                <b>Node</b>
+                <b>Express</b>
                 </Name>
                 <Level>
                 4.9/5
