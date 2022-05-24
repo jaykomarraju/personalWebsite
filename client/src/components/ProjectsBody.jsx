@@ -58,13 +58,14 @@ const ProjectsBody = () => {
             Projects
         </Heading>
         <ProjectGrid>
+        <a href="https://www.buyananswer.com">
             <Project>
                 <Head>BUYANANSWER.COM</Head>
                 <Head2><i>Current Project (Founder)</i></Head2>
                 <Thumbnail src={require('../assets/buyananswer.png')}></Thumbnail>
                 {/* <GitButton>PRIVATE GITHUB (CONTACT FOR REPO ACCESS)</GitButton> */}
             </Project>
-            
+            </a>
             <a href="https://github.com/jaykomarraju/ontecha.git">
             <Project>
                 <Head>ONTECHA</Head>
